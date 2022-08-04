@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# School Library
+# TDD project
 
-> A school library application designed with Ruby using OOP.
+> Write unit tests using Rspec.
 
 ## Built With
 
